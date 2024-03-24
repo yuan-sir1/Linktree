@@ -1,5 +1,5 @@
 # 前言
-Linktree | 聚合一切-链接所有 <br> 纯HTML+CSS。自适应，手机和电脑背景不一样，在css中修改,其余都在index.html中修改 <br>  <br> Demo：https://www.yuan-sir.com/linktree/
+Linktree | 聚合一切-链接所有 <br> 纯HTML+CSS。自适应，手机和电脑背景不一样，在css中修改,其余都在index.html中修改 <br>该源码启用IE-OUT计划，无法使用IE浏览器打开。解除限制需要在源码index.html中删除第11行；具体说明详见http://ie-out.cloud-services.yuan-sir.com/upgrade-your-browser.html<br>  <br><br> Demo：https://www.yuan-sir.com/linktree/
 
 
 # 截图
